@@ -1,1 +1,2 @@
 Preparation started - Day 1
+Worked on Student class methods - Day 2
